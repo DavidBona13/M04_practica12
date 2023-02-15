@@ -1,0 +1,32 @@
+<students>
+  <student Country="Spain">
+    <name>Roc</name>
+    <surname>Bigas</surname>
+    <email>rbigas@gmail.net</email>
+    <dni>494586675P</dni>
+  </student>
+  <student Country="Australia">
+    <name>Jhameo</name>
+    <surname>Garcia</surname>
+    <email>jfunes@gmail.net</email>
+    <dni>987123465E</dni>
+  </student>
+  <student Country="U.S">
+    <name>david</name>
+    <surname>bona</surname>
+    <email>dbona@gmail.es</email>
+    <dni>876234567Y</dni>
+  </student>
+  <student Country="Kazajistan">
+    <name>roger</name>
+    <surname>blanes</surname>
+    <email>peepn@yahoo.net</email>
+    <dni>982347435R</dni>
+  </student>
+  <student Country="Polonia">
+    <name>papa</name>
+    <surname>seco</surname>
+    <email>jaumebalmes@hehe.na</email>
+    <dni>78433221F</dni>
+  </student>
+</students>
