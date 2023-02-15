@@ -87,7 +87,9 @@ def genXml():
     dni5.text = "78433221F"
 
     ET.indent(root)
-    ET.dump(root)
+    dump = ET.dump(root)
 
     tree = ET.ElementTree(root)
     tree.write("students.xml")
+
+    return dump
